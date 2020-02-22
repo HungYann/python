@@ -3,6 +3,10 @@ I will upload my python project into the repository.Hopefully, this way will hel
 
 
 
+tutorial:
+
+scrapy爬虫技术[网站](https://www.bilibili.com/video/av57909837?p=5)
+
 
 
 ## Website:
