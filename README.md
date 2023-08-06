@@ -1,21 +1,12 @@
-# python
-I will upload my python project into the repository.Hopefully, this way will help me improve my python programming skill
+# 爬虫 Crawler
+
+## 概述
+
+上传了我多年前学习爬虫时的一些代码，当初爬取过链家网站上的数据，爬过小说，爬过知乎和大众点评等
 
 
+## 技术教程
 
-tutorial:
-
-scrapy爬虫技术[网站](https://www.bilibili.com/video/av57909837?p=5)
-
-
-
-wxapp：
-
-爬取小程序社区
-
-
-
-zhihucrawler:
 
 爬取知乎:
 
@@ -31,21 +22,21 @@ zhihucrawler:
 
 
 
+## 联系方式
+
+有爬虫相关的问题可以联系我免费解答：
+联系方式：1664698982@qq.comm
 
 
-参考仓库：
 
-https://github.com/visionshao/-zhihu-crawl-
+## 参考
 
-参考文章：
-
-https://zhuanlan.zhihu.com/p/78552777
-
-获取cookie:
-
-https://mkyong.com/computer-tips/how-to-view-http-headers-in-google-chrome/#:~:text=In%20Chrome%2C%20visit%20a%20URL,displayed%20on%20the%20right%20panel.
-
-## Website:
+- 【1】https://github.com/visionshao/-zhihu-crawl-
 
 
-[Data Flair](https://data-flair.training/blogs/data-science-r-movie-recommendation/#)
+- 【2】https://zhuanlan.zhihu.com/p/78552777
+
+- 【3】https://mkyong.com/computer-tips/how-to-view-http-headers-in-google-chrome/#:~:text=In%20Chrome%2C%20visit%20a%20URL,displayed%20on%20the%20right%20panel.
+
+
+- 【4】[Data Flair](https://data-flair.training/blogs/data-science-r-movie-recommendation/#)
