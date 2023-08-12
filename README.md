@@ -4,6 +4,11 @@
 
 上传了我多年前学习爬虫时的一些代码，当初爬取过链家网站上的数据，爬过小说，爬过知乎和大众点评等
 
+## 流程
+
+<img width="882" alt="image" src="https://github.com/HungYann/python/assets/55868230/22adf169-5b32-4960-b7ba-947b8e107cc4">
+
+
 
 ## 技术教程
 
